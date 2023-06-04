@@ -1,2 +1,4 @@
 # Device-information
-# Screenshot![Screen](https://github.com/Mktapphub/Device-information/assets/128965778/de1c657e-8c1f-42be-8473-6e927cd192dc)
+# Screenshot!
+
+![Screen](https://github.com/Mktapphub/Device-information/assets/128965778/e431dc70-ca42-44c0-8b8c-df080c48db19)
